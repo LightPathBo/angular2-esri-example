@@ -1,3 +1,7 @@
+# Steps before run the project
+* [Install node, I used Node v7.6.0](https://nodejs.org/es/)
+* [Install Angular CLI](https://cli.angular.io/)
+
 # angular2-esri-example
 This is an example app using [ArcGIS API for JavaScript] **v3** in an [Angular 2] app.
 The purpose is to explore ways that [Angular 2] components and services can communicate
